@@ -1,7 +1,6 @@
 import yaml
 import subprocess
 import hashlib
-import subprocess
 import flask
 
 
